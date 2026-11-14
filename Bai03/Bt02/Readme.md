@@ -30,19 +30,23 @@ node BAI2.js
 
 **1. Khởi chạy Web Server bằng Terminal**
 
-![Khởi chạy Web Server](images/anh1-terminal.png)
+<img width="637" height="61" alt="vanthuong 3 2 anh1" src="https://github.com/user-attachments/assets/6a3ccb26-6754-4c63-bb1f-4dac7418924c" />
+
 
 **2. Kết quả trang chủ**
 
-![Trang chủ](images/anh2-trangchu.png)
+<img width="1037" height="554" alt="vanthuong3 2 anh2" src="https://github.com/user-attachments/assets/83b55034-53ef-4ec9-85a4-127986d2e611" />
+
 
 **3. Kết quả trang giới thiệu**
 
-![Trang giới thiệu](images/anh3-about.png)
+<img width="1172" height="630" alt="vanthuong3 2 anh3" src="https://github.com/user-attachments/assets/83561d27-6a6a-4200-9efc-612540db3f54" />
+
 
 **4. Kết quả khi truy cập đường dẫn không tồn tại (404)**
 
-![Trang lỗi 404](images/anh4-404.png)
+<img width="1279" height="459" alt="vanthuong3 2 anh4" src="https://github.com/user-attachments/assets/76c00f3f-9209-45cf-a758-c40e376d09a2" />
+
 
 ## Kết quả thực hiện
 
