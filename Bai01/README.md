@@ -33,12 +33,7 @@ node hello.js
 ```
 
 Kết quả hiển thị trên Terminal:
-```
-=== BÀI THỰC HÀNH 01: LÀM QUEN VỚI NODE.JS ===
-Xin chào! Tôi là: Nguyễn Văn Thưởng
-Lớp: CĐ-CNTT18B
-Phiên bản Node.js: v26.13.0
-Chạy ứng dụng Node.js đầu tiên thành công!
-```
+<img width="448" height="211" alt="Picture7" src="https://github.com/user-attachments/assets/9839adbf-8267-4d80-8f74-73868898c8f3" />
+
 
 - **Mô tả kết quả:** Chương trình `hello.js` đã thực thi thành công thông qua Node.js runtime, in ra màn hình thông tin sinh viên và phiên bản Node.js hiện tại.
