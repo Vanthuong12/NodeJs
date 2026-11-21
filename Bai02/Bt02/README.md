@@ -28,3 +28,5 @@
    http://localhost:3000
    ```
 4. Trang web sẽ hiển thị thẻ hồ sơ sinh viên gồm Họ tên và Mã sinh viên rõ ràng, căn giữa màn hình với giao diện hiện đại.
+<img width="605" height="322" alt="Picture11" src="https://github.com/user-attachments/assets/0c5552bb-43c9-4bb1-8386-ad3b192e73d1" />
+
