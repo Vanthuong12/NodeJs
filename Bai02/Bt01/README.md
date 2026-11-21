@@ -22,4 +22,6 @@
    ```
    http://localhost:3000
    ```
-3. Kết quả: Trình duyệt hiển thị trang giao diện đẹp mắt với tên sinh viên "Nguyễn Văn Thưởng".
+3. Kết quả: Trình duyệt hiển thị trang giao diện
+ <img width="624" height="296" alt="Picture9" src="https://github.com/user-attachments/assets/6cd66732-e40d-4a3b-aa13-61598d135a40" />
+
