@@ -1,0 +1,3 @@
+Dòng 1: Làm quen với module fs trong Node.js.
+Dòng 2: Thao tác tạo thư mục, ghi và đổi tên tập tin.
+Dòng 3: Đọc nội dung và xóa tập tin tạm an toàn.
